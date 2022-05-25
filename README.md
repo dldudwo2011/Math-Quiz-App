@@ -1,4 +1,4 @@
-# MathQuizApp
+# Math-Quiz-App
 
 Console App
 
